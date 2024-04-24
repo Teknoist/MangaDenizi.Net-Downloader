@@ -34,7 +34,3 @@ Bu basit Python betiği, MangaDenizi.Net web sitesinden mangaları otomatik olar
 - FPDF
 - Pillow
 - BeautifulSoup4
-
-## Lisans
-
-Bu betik MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
