@@ -9,7 +9,8 @@ Bu basit Python betiği, MangaDenizi.Net web sitesinden mangaları otomatik olar
 2. Gerekli modülleri yüklemek için terminal veya komut istemcisini açın ve aşağıdaki komutları girin:
 
     ```
-    pip install fpdf pillow bs4
+    pip install requests aiohttp beautifulsoup4 lxml
+
     ```
 
 3. Şimdi, `Main.py` dosyasını indirin veya klonlayın.
